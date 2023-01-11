@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Prerit Terway
+description: Ph.D. Candidate | Electrical and Computer Engineering | Princeton University
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: pterway@princeton.edu#
 
 # Pagination
 paginate: 4
